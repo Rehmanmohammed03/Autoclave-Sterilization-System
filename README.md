@@ -1,33 +1,43 @@
-# Autoclave-Sterilization-System
-Project Title
-Engineer 1P13: Integrated Cornerstone Design Projects in Engineering - Healthcare Challenge
+# Engineer 1P13: Integrated Cornerstone Design Projects in Engineering - Healthcare Challenge
 
-Introduction
-This is a project that was completed as part of the Engineer 1P13: Integrated Cornerstone Design Projects in Engineering course. The project was a healthcare-focused challenge where the team was tasked with finding a solution to a real-world problem. The challenge was divided into two teams; one team was responsible for creating a container that could facilitate the sterilization of a surgical tool, while the other team was tasked with writing a computer program that could control a robotic q-arm via muscle sensors.
+This is a project completed for the Engineer 1P13: Integrated Cornerstone Design Projects in Engineering course. The project focused on finding a solution to a healthcare-related problem through the engineering design process.
 
-Learning Components
-The main learning components of this project were to:
+## Objective
 
-Understand and utilize the engineering design process
-Make informed decisions in creating a sterilization container based on our design goals and given surgical tool and container footprint
-Create easily understandable python codes
-Conduct informed research and create citations in IEEE format
-Work together as a team in a real-life engineering environment
-Favorite Parts
-My favorite parts of this project were:
+The objective of the healthcare challenge was to create a sterilization container for a surgical tool or write a computer program to control a robotic q-arm via muscle sensors.
 
-Controlling a real robotic q-arm and programming it to complete specific tasks
-Becoming familiar with the q-labs environment and the raspberry pi
-Researching the biomaterials associated with hip implants
-Skills Developed
-The skills that I developed during this project were:
+## Learning Components
 
-Proficiency in coding Python
-Knowledge about biomaterials
-Scholarly research skills
-IEEE citation skills
-Conclusion
-Overall, Project 2 was an introduction into how multiple projects can contribute to a singular solution, and the skills that I developed are crucial to my development in the McMaster Engineering program. I look forward to my future projects in this course and working with different problems and solutions.
+During this project, we learned:
 
-Acknowledgements
+- The engineering design process
+- How to make informed decisions based on design goals and constraints
+- How to create Python code that is easy to understand
+- How to conduct research and cite sources in IEEE format
+- How to work effectively in a team in a real-life engineering environment
+
+## Highlights
+
+Some of the highlights of this project were:
+
+- Controlling a real robotic q-arm and programming it to complete specific tasks
+- Becoming familiar with the q-labs environment and the Raspberry Pi
+- Researching biomaterials associated with hip implants
+
+## Skills Developed
+
+We developed the following skills during this project:
+
+- Proficiency in coding Python
+- Knowledge about biomaterials
+- Scholarly research skills
+- IEEE citation skills
+
+## Conclusion
+
+Overall, this project was an introduction to how multiple projects can contribute to a singular solution, and the skills that we developed are crucial to our development in the McMaster Engineering program. We look forward to our future projects in this course and working with different problems and solutions.
+
+## Acknowledgements
+
 We would like to acknowledge our professor and teaching assistants who provided guidance and support throughout this project. We would also like to acknowledge our team members for their hard work and dedication to this project.
+
